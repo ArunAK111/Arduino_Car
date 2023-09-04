@@ -33,6 +33,7 @@ Horn Sound: Activate and deactivate the car's horn using the app.
 
 The code you've provided is responsible for controlling the car's movements and interacting with the smartphone app through Bluetooth communication. It defines pin mappings for motors, lights, and the buzzer, as well as functions for different car movements and actions.
 
+
 # Circuit
 
 ![image](https://github.com/ArunAK111/Arduino_Car/assets/117448626/3326245e-cf11-452c-ac11-cf9e77838889)
