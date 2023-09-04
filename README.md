@@ -1,8 +1,8 @@
-# Smartphone Controlled Arduino 4WD Car
+## Smartphone Controlled Arduino 4WD Car
 
 The Arduino 4WD Smartphone Controlled Car is a DIY project that allows you to build a remotely controlled four-wheel-drive car using an Arduino Uno board. This project leverages an Arduino, a motor driver module, a bluetooth module and a smartphone app to control the car's movement, lights, and horn. It's a fun and educational project for electronics and programming enthusiasts.
 
-# Components Needed:
+## Components Needed:
 
 Arduino Uno, 
 4WD Car Chassis with Motors, 
@@ -15,14 +15,14 @@ Smartphone,
 Jumper wires, 
 Breadboard (optional)
 
-# Application Required
+## Application Required
 
 Bluetooth RC Car (By Andi.Co) on Playstore
 
-![Bluetooth_RC_Car](https://github.com/ArunAK111/Arduino_Car/assets/117448626/d3ad4088-91e7-455d-9a36-382b1652b805)
+![Bluetooth_RC_Car (1)](https://github.com/ArunAK111/Arduino_Car/assets/117448626/92c175c5-fb7d-4de2-abe1-85e8551a2e15)
 
 
-# Project Features:
+## Project Features:
 
 Remote Control: You can control the car wirelessly using a smartphone app via Bluetooth communication.
 
@@ -35,17 +35,17 @@ Light Control: Toggle the front and back LED lights on and off using the app.
 Horn Sound: Activate and deactivate the car's horn using the app.
 
 
-# Arduino Code:
+## Arduino Code:
 
 The code you've provided is responsible for controlling the car's movements and interacting with the smartphone app through Bluetooth communication. It defines pin mappings for motors, lights, and the buzzer, as well as functions for different car movements and actions.
 
 
-# Circuit
+## Circuit
 
 ![image](https://github.com/ArunAK111/Arduino_Car/assets/117448626/3326245e-cf11-452c-ac11-cf9e77838889)
 
 
-# How It Works:
+## How It Works:
 
 The Arduino initializes all pins and sets up the serial communication at 9600 baud.
 
