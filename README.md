@@ -19,7 +19,7 @@ Breadboard (optional)
 
 Bluetooth RC Car (By Andi.Co) on Playstore
 
-![Bluetooth_RC_Car (1)](https://github.com/ArunAK111/Arduino_Car/assets/117448626/92c175c5-fb7d-4de2-abe1-85e8551a2e15)
+<img src="https://github.com/ArunAK111/Arduino_Car/blob/main/Bluetooth_RC_Car.jpg" width="200" height="120" />
 
 
 ## Project Features:
