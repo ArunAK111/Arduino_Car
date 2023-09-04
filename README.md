@@ -19,7 +19,7 @@ Breadboard (optional)
 
 Bluetooth RC Car (By Andi.Co) on Playstore
 
-<img src="https://github.com/ArunAK111/Arduino_Car/blob/main/Bluetooth_RC_Car.jpg" width="200" height="120" />
+<img src="https://github.com/ArunAK111/Arduino_Car/blob/main/Bluetooth_RC_Car.jpg" width="400" height="300" />
 
 
 ## Project Features:
@@ -42,7 +42,7 @@ The code you've provided is responsible for controlling the car's movements and 
 
 ## Circuit
 
-<img src="https://github.com/ArunAK111/Arduino_Car/assets/117448626/3326245e-cf11-452c-ac11-cf9e77838889)](https://github.com/ArunAK111/Arduino_Car/blob/main/Circuit_Diagram.jpg" width="300" height="200" />
+<img src="https://github.com/ArunAK111/Arduino_Car/assets/117448626/3326245e-cf11-452c-ac11-cf9e77838889)](https://github.com/ArunAK111/Arduino_Car/blob/main/Circuit_Diagram.jpg" width="400" height="250" />
 
 ## How It Works:
 
